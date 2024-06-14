@@ -73,6 +73,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 -->
 
 ---
+# Successfully created the header and completed the task
+## Yo
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/communicate-using-markdown) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
